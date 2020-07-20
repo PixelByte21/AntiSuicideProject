@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Anti-Suicide Project</title>
-    <link>AntiSuicideProject/antisuicideproject.com/categories/</link>
+    <link>pixelbyte21.github.io/antisuicideproject.com/categories/</link>
     <description>Recent content in Categories on Anti-Suicide Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="AntiSuicideProject/antisuicideproject.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="pixelbyte21.github.io/antisuicideproject.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
